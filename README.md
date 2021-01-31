@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Meu Primeiro Repositório Git-GitHub
+ Este é o Meu Primeiro Repositório Git-GitHub
 
  Aprendendo a utilizar ambas as ferramentas com um canal excelente chamado "Curso em vídeo".
  
